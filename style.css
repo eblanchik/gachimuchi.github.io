@@ -1,0 +1,48 @@
+body{
+background-color: #181818;
+font-color:#fff;
+}
+.block{
+background:#CFCFCF;
+border: 1px solid #000;
+border-radius:10px;
+padding:25px;
+margin:25px;
+width:65%;
+}
+#menu{
+background: #fff;
+float: left;
+border-radius:10px;
+padding:5px;
+margin:5px;
+margin-bottom: 50px ;
+}
+#logo{
+width:50px;
+height:50px;
+}
+#huiii{
+float: left;
+}
+#huii{
+float: left;
+}
+.block1{
+background:#CFCFCF;
+border: 1px solid #000;
+border-radius:10px;
+padding:25px;
+margin:25px;
+widows: 50px;   
+margin-top:80px;
+}
+#poisk{
+background-color: #EFEFEF;
+padding:25px;
+margin:25px;
+align:right;
+width: 30%;
+border:1px solid #000;
+border-radius:10px;
+}
